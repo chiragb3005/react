@@ -28,3 +28,5 @@ const ReactElement = {
 }
 
 const mainContainer = document.querySelector('#root')
+
+customRender(ReactElement, mainContainer)
